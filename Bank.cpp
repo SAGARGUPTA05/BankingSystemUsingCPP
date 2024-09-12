@@ -42,7 +42,7 @@ int main(){
 	        cin>>obj.search;
         while(1){
 
-            cout<<"\n\n\n\t\t.......:::Bahram's Bank:::.......";
+            cout<<"\n\n\n\t\t.......:::Student Bank:::.......";
             cout<<"\n\t\t:: press 1 to Deposit  Amount  :: ";
             cout<<"\n\t\t:: press 2 to Withdraw Amount  ::";
             cout<<"\n\t\t:: press 3 to Check    Info    ::";
